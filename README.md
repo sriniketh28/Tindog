@@ -1,5 +1,5 @@
 # Tindog
-Tindog is a simple concept like tinder but for dogs. It is made using HTML, CSS and Bootstrap .<br />
+Tindog is a simple concept like tinder for dogs. It is made using HTML, CSS and Bootstrap .<br />
 Tindog is also mobile friendly.
 
 ## Steps to install
